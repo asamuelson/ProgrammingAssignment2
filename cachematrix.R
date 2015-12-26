@@ -1,6 +1,6 @@
 ## The functions makeCacheMatrix and cacheSolve calculate the inverse of a 
 ## square, invertible matrix. They also check whether the inverse has already been
-## caculated and use the cached version of the answer if it is available.  
+## calculated and use the cached version of the answer if it is available.  
 ## These functions are based on the sample functions makeVector and cacheMean.
 
 ## The function makeCacheMatrix creates a special "matrix" object. 
